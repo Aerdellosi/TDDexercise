@@ -1,0 +1,4 @@
+Describe: filterOffensiveWords()
+
+Test: "Will take a passage in from the user".
+Code: document
